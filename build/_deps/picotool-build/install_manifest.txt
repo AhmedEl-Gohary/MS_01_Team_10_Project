@@ -1,0 +1,5 @@
+/home/ahmed/pico/blink/build/_deps/picotool/picotool
+/home/ahmed/pico/blink/build/_deps/picotool/picotoolTargets.cmake
+/home/ahmed/pico/blink/build/_deps/picotool/picotoolTargets-release.cmake
+/home/ahmed/pico/blink/build/_deps/picotool/picotoolConfig.cmake
+/home/ahmed/pico/blink/build/_deps/picotool/picotoolConfigVersion.cmake
